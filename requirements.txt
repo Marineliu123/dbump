@@ -1,0 +1,7 @@
+discord
+discord.py
+asyncio
+time
+random
+config
+os
